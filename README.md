@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeff Munene
 - 👀 I’m interested in coding,gaming and cars.
 - 💞️ I’m looking to collaborate on web development projects and UI designs.
-- 📫 How to reach me - jeffmunene2@gmail.com
+- 📫 How to reach me - jeffmunenengari@gmail.com
 
 
 <!---
